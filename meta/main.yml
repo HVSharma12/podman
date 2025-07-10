@@ -21,4 +21,7 @@ galaxy_info:
     - el10
     - fedora
     - podman
+    - leap
+    - leap15
+    - leap15.6
 dependencies: []
